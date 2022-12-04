@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Ten.6e767e5a-73e1-11ed-adb2-00e93a3b1db6.jpg</filename>
+	<path>C:\Users\malik\OneDrive\Documents\ITB TERCINTA\Semester 5\Pemrograman Lanjut\tubespemlan\Tensorflow\workspace\images\collectedimages\Ten.6e767e5a-73e1-11ed-adb2-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>259</ymin>
+			<xmax>222</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

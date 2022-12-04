@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Thanks.def6e049-73df-11ed-a999-00e93a3b1db6.jpg</filename>
+	<path>C:\Users\malik\OneDrive\Documents\ITB TERCINTA\Semester 5\Pemrograman Lanjut\tubespemlan\Tensorflow\workspace\images\collectedimages\Thanks.def6e049-73df-11ed-a999-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>272</ymin>
+			<xmax>414</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

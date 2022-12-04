@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Zero.942edf28-73e0-11ed-9f72-00e93a3b1db6.jpg</filename>
+	<path>C:\Users\malik\OneDrive\Documents\ITB TERCINTA\Semester 5\Pemrograman Lanjut\tubespemlan\Tensorflow\workspace\images\collectedimages\Zero.942edf28-73e0-11ed-9f72-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>118</ymin>
+			<xmax>358</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

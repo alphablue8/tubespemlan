@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Two.b6a81559-73e0-11ed-8ee5-00e93a3b1db6.jpg</filename>
+	<path>C:\Users\malik\OneDrive\Documents\ITB TERCINTA\Semester 5\Pemrograman Lanjut\tubespemlan\Tensorflow\workspace\images\collectedimages\Two.b6a81559-73e0-11ed-8ee5-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Two</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>207</ymin>
+			<xmax>196</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
